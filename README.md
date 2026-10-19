@@ -4,7 +4,7 @@
 
 A single-page web app for **learning American Sign Language (ASL)** and **communicating with it through a webcam**. It recognises fingerspelled letters, everyday signs and drawn letters, then types them into a message box and speaks them aloud.
 
-Everything lives in one self-contained `index.html` file (about 600 KB, with all 46 reference pictures embedded). There is no framework, no backend and no account. Hand tracking runs in the browser, and no video leaves the device.
+Everything lives in one self-contained `index.html` file (about 600 KB, with all 46 reference pictures embedded). Hand tracking runs in the browser, and no video leaves the device.
 
 ---
 
