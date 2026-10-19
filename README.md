@@ -329,7 +329,3 @@ Close other tabs, and try a browser with GPU/WebGL support. The app falls back t
 
 - Hand and face tracking: [MediaPipe Tasks Vision](https://developers.google.com/mediapipe) by Google (Apache 2.0).
 - Typefaces: [Inter](https://rsms.me/inter/) and [Instrument Serif](https://fonts.google.com/specimen/Instrument+Serif), served by Google Fonts (SIL Open Font License).
-
-## License
-
-_Add your license here (for example MIT) and confirm that you have the right to distribute the embedded sign photographs._
